@@ -40,3 +40,5 @@ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 Code basics (JavaScript, HTML, CSS)
 Полный Курс JavaScript Для Начинающих - Bogdan Stachuk
 Полный Курс HTML Для Начинающих - Bogdan Stachuk
+
+Added some changes for commit
