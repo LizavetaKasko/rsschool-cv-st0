@@ -1,0 +1,73 @@
+.summary,
+.skills,
+.code,
+.courses,
+.education,
+.english,
+.contacts {
+  border: 5px solid rgb(250, 218, 221);
+  border-radius: 15px;
+  padding: 10px 10px;
+  color: #3f3f3f;
+  text-align: justify;
+}
+
+.highlight {
+  margin-bottom: -22px;
+}
+
+.links {
+  background-color: rgb(250, 218, 221);
+  color: #3f3f3f;
+}
+
+#footer {
+  background-color: rgb(250, 218, 221);
+  color: #3f3f3f;
+  height: 38px;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: #3f3f3f;
+  text-decoration: none;
+}
+
+.name-section {
+  color: #3f3f3f;
+  font-weight: 400px;
+  font-size: 40px;
+  align-self: center;
+}
+
+.position {
+  color: #3f3f3f;
+  font-weight: 400px;
+  font-size: 25px;
+  align-self: center;
+}
+
+.location {
+  color: #3f3f3f;
+  font-weight: 400px;
+  font-size: 20px;
+  align-self: center;
+}
+
+.github-section {
+  font-size: 16px;
+}
+
+.year {
+  float: right;
+  padding-top: 8px;
+}
+
+.logo {
+  height: 100%;
+  width: 95px;
+  float: left;
+}
