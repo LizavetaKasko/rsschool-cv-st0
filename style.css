@@ -4,7 +4,8 @@
 .courses,
 .education,
 .english,
-.contacts {
+.contacts
+.project {
   border: 5px solid rgb(250, 218, 221);
   border-radius: 15px;
   padding: 10px 10px;
@@ -19,6 +20,7 @@
 .links {
   background-color: rgb(250, 218, 221);
   color: #3f3f3f;
+  text-align: end;
 }
 
 #footer {
